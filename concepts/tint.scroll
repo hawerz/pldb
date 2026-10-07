@@ -3,9 +3,10 @@
 id tint
 name Tint
 appeared 2026
+creators Mark Bender
 tags pl
 website https://tint-gamma.vercel.app
-latestVersion 0.3.0
+latestVersion 0.4.0
 fileExtensions tn
 writtenIn rust
 isOpenSource true
